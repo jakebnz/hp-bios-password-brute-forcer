@@ -43,5 +43,5 @@ HP silently locks out bios password clearing attempts after 3 tries, so the comp
 
 The script also waits a randomised amount of time between attempting each password in order to avoid triggering any other brute-force detections, though there doesn't seem to be any other measures in place aside from the 3-attempt lockout.
 
-> **DISCLAIMER, AGAIN:** Seriously, do not use this to try and crack open a stolen laptop. It will not
+> **DISCLAIMER, AGAIN:** Seriously, do not use this to try and crack open a stolen laptop. Aside from being illegal, it will not
 > work even if you do.
