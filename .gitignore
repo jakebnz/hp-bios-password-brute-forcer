@@ -1,0 +1,19 @@
+
+# fatfinger.ps1 output (candidate password lists)
+variations.txt
+*.variations.txt
+
+# Clear-BiosPw.ps1 / install.ps1 transcripts and state
+*.log
+state.json
+
+# install.ps1 downloads and generated verifier
+verify.ps1
+*.exe
+*.msi
+
+# Editor / OS noise
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
